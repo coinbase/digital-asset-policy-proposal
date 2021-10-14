@@ -1,5 +1,7 @@
 # Operational Framework of the Digital Asset Policy Proposal
 
+We've created a simple explainer on how to comment on individual elements of the framework, or the framework as a whole, using GitHub.  You will find it here: [CONTRIBUTING.md](CONTRIBUTING.md)
+
 ## Regulate Digital Assets Under a Separate Framework
 * Define digital asset as: A financial asset issued and transferred using distributed ledger or blockchain technology. “Financial asset” would include an asset whose primary use is as a payment instrument, medium of exchange, means of storing value, or otherwise as a financial interest.
 * In creating a new regulatory framework for digital assets, Congress should recognize in law that all digital assets, including digitally native versions of traditional financial assets, should be subject to a new regulatory regime for digital assets.
