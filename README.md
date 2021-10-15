@@ -9,19 +9,13 @@ For an explainer on how to comment on the framework, see
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Framework](#framework)
-  - [1. Regulate Digital Assets Under a Separate
-    Framework](#1-regulate-digital-assets-under-a-separate-framework)
-  - [2. Designate One Regulator for Digital Asset
-    Markets](#2-designate-one-regulator-for-digital-asset-markets)
-  - [3. Promote Interoperability and Fair
-    Competition](#3-promote-interoperability-and-fair-competition)
+  - [1. Regulate Digital Assets Under a Separate Framework](#1-regulate-digital-assets-under-a-separate-framework)
+  - [2. Designate One Regulator for Digital Asset Markets](#2-designate-one-regulator-for-digital-asset-markets)
+  - [3. Promote Interoperability and Fair Competition](#3-promote-interoperability-and-fair-competition)
 - [Goals](#goals)
-  - [1. Enhance transparency through appropriate disclosure
-    requirements](#1-enhance-transparency-through-appropriate-disclosure-requirements)
-  - [2. Protect against fraud and market
-    manipulation](#2-protect-against-fraud-and-market-manipulation)
-  - [3. Promote efficiency and strengthen market
-    resiliency](#3-promote-efficiency-and-strengthen-market-resiliency)
+  - [1. Enhance transparency through appropriate disclosure requirements](#1-enhance-transparency-through-appropriate-disclosure-requirements)
+  - [2. Protect against fraud and market manipulation](#2-protect-against-fraud-and-market-manipulation)
+  - [3. Promote efficiency and strengthen market resiliency](#3-promote-efficiency-and-strengthen-market-resiliency)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
