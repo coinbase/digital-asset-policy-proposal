@@ -62,7 +62,7 @@ framework, or the framework as a whole, using GitHub. You will find it here:
 
 ## New Framework Should Be Guided by Three Goals
 
-1. Enhance transparency through appropriate disclosure requirements
+### Enhance transparency through appropriate disclosure requirements
 
    1. The information environment for digital assets should focus on the
       material characteristics, benefits, and risks of the asset itself. An
@@ -100,7 +100,7 @@ framework, or the framework as a whole, using GitHub. You will find it here:
          process for obtaining timely, case-specific, interpretive, or exemptive
          relief.
 
-2. Protect against fraud and market manipulation
+### Protect against fraud and market manipulation
 
    1. An MDA would need to make available required disclosures about the digital
       assets it supports.
@@ -114,7 +114,7 @@ framework, or the framework as a whole, using GitHub. You will find it here:
    4. MDAs should provide clear information about their operations to the
       public.
 
-3. Promote efficiency and strengthen market resiliency
+### Promote efficiency and strengthen market resiliency
 
    1. Rules for MDAs should account for market participants having direct access
       to exchange services, and not through broker-dealers as gatekeepers.
