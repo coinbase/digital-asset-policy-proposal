@@ -6,59 +6,59 @@ framework, or the framework as a whole, using GitHub. You will find it here:
 
 ## Regulate Digital Assets Under a Separate Framework
 
-- Define **_"digital asset"_** as:
+1. Define **_"digital asset"_** as:
 
-  > A financial asset issued and transferred using distributed ledger or
-  > blockchain technology.
+    > A financial asset issued and transferred using distributed ledger or
+    > blockchain technology.
 
-  **_"Financial asset"_** would include an asset whose primary use is as a
-  payment instrument, medium of exchange, means of storing value, or otherwise
-  as a financial interest.
+    **_"Financial asset"_** would include an asset whose primary use is as a
+    payment instrument, medium of exchange, means of storing value, or otherwise
+    as a financial interest.
 
-- In creating a new regulatory framework for digital assets, Congress should
-  recognize in law that all digital assets, including digitally native versions
-  of traditional financial assets, should be subject to a new regulatory regime
-  for digital assets.
+2. In creating a new regulatory framework for digital assets, Congress should
+   recognize in law that all digital assets, including digitally native versions
+   of traditional financial assets, should be subject to a new regulatory regime
+   for digital assets.
 
-## Designate One Regulator for Digital Asset Markets:
+## Designate One Regulator for Digital Asset Markets
 
-- Authority would include:
+1. Authority would include:
 
-  1. A new registration process established for marketplaces for digital assets
-     (**_"MDAs"_**).
+    1. A new registration process established for marketplaces for digital
+        assets (**_"MDAs"_**).
 
-  2. Appropriate disclosures to inform purchasers of digital assets.
+    2. Appropriate disclosures to inform purchasers of digital assets.
 
-- MDA regulation should support the efficiency benefits of
-  straight-through-processing.
+2. MDA regulation should support the efficiency benefits of
+   straight-through-processing.
 
-- MDAs should be authorized to perform the full lifecycle of digital asset
-  services, including digital asset trading, transfer (e.g., wallet services),
-  custody, clearing, money payment, staking, borrowing and lending, and related
-  incidental services.
+3. MDAs should be authorized to perform the full lifecycle of digital asset
+   services, including digital asset trading, transfer (e.g., wallet services),
+   custody, clearing, money payment, staking, borrowing and lending, and related
+   incidental services.
 
-- The regulator should be authorized to offer different registration paths for
-  different kinds of MDAs depending on the scope of activities they provide.
+4. The regulator should be authorized to offer different registration paths for
+   different kinds of MDAs depending on the scope of activities they provide.
 
-- Regulations should focus on equal and open access to digital asset trading for
-  all market participants — retail and institutional.
+5. Regulations should focus on equal and open access to digital asset trading
+   for all market participants — retail and institutional.
 
-- A dedicated self-regulatory organization (**"_SRO"_**) should be established
-  to strengthen the oversight regime and provide more granular oversight of
-  MDAs.
+6. A dedicated self-regulatory organization (**"_SRO"_**) should be established
+   to strengthen the oversight regime and provide more granular oversight of
+   MDAs.
 
-  1. All registered MDAs should be required to be members of the SRO.
+    1. All registered MDAs should be required to be members of the SRO.
 
-  2. The SRO should establish the self-certification process that an MDA would
-     use to make a digital asset available for trading on its platform.
+    2. The SRO should establish the self-certification process that an MDA would
+        use to make a digital asset available for trading on its platform.
 
-- The framework would preempt state-by-state registration and related regulatory
-  requirements.
+7. The framework would preempt state-by-state registration and related
+   regulatory requirements.
 
-- The treatment of platforms and services that do not custody or otherwise
-  control the assets of a customer would need to be inherently different from an
-  MDA that holds and controls customer assets, and is therefore not addressed by
-  this framework.
+8. The treatment of platforms and services that do not custody or otherwise
+   control the assets of a customer would need to be inherently different from
+   an MDA that holds and controls customer assets, and is therefore not
+   addressed by this framework.
 
 ## New Framework Should Be Guided by Three Goals
 
@@ -149,8 +149,8 @@ framework, or the framework as a whole, using GitHub. You will find it here:
 
 ## Promote Interoperability and Fair Competition
 
-- MDAs must be interoperable with products and services across the
-  cryptoeconomy.
+1. MDAs must be interoperable with products and services across the
+   cryptoeconomy.
 
-- The new regulatory framework should encourage communication, competition and
-  cross-pollination among protocols, applications, and MDAs.
+2. The new regulatory framework should encourage communication, competition and
+   cross-pollination among protocols, applications, and MDAs.
