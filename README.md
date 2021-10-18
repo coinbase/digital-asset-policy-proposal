@@ -24,7 +24,7 @@ We've created a simple explainer on how to comment on individual elements of the
 1. Enhance transparency through appropriate disclosure requirements
     1. The information environment for digital assets should focus on the material characteristics, benefits, and risks of the asset itself. An asset-centric approach would include information about the features of underlying projects that investors are likely to find most relevant in their purchase or use decisions.
         1. For digital assets that are debt or equity securities, many of the current securities disclosure requirements may be appropriate.
-        2. Digital assets that are well-established, broadly understood, and decentralized, like Bitcoin and Ether, should not require ongoing disclosure.
+        2. Digital assets that are well-established, broadly understood, and decentralized, like Bitcoin, should not require ongoing disclosure.
         3. Digital tokens that are earlier in the life cycle, and not yet decentralized, should have a minimum set of disclosures. For example, those could be based on key features of the white papers that are already widely used by the industry.
         4. Asset-backed tokens, like stablecoins and other digital assets that are pegged to a particular value or fiat currency and maintain a reserve of assets designed to ensure they maintain the peg, require a different type of disclosure. The disclosures should be appropriate to how they are being used, which is inherently different from money market funds.
     2. Disclosure requirements must be flexible, so they can be readily applied to a wide range of digital assets and so they are resilient in the face of future innovation.
