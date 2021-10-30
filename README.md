@@ -49,3 +49,7 @@ We've created a simple explainer on how to comment on individual elements of the
 ## Promote Interoperability and Fair Competition
 * MDAs must be interoperable with products and services across the cryptoeconomy.
 * The new regulatory framework should encourage communication, competition and cross-pollination among protocols, applications, and MDAs.
+
+## Glossary
+* MDA : Marketplaces for Digital Assets
+* SRO : Self Regulatory Organization 
